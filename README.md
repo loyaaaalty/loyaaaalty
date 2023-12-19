@@ -8,7 +8,7 @@
  </div>
 
 <div align="center">
-<a href="https://discord.com/users/1106664065725628427">
+<a href="https://discord.com/users/1107698294995562540">
 <img src="https://lanyard-profile-readme.vercel.app/api/1094385939347943516?theme=dark&bg=292b2f&animated=true&borderRadius=27px">
  
 </div>
@@ -22,7 +22,7 @@
 <h3>Contact Me!</h3>
  
  
-<a rel="noreferrer" href="https://github.com/nottzack"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a> <a rel="noreferrer" href="https://discord.gg/Jv5NycngQ3"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
+<a rel="noreferrer" href="https://github.com/loyaaaalty"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a> <a rel="noreferrer" href="https://discord.gg/exposedfivem"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
  
  
 <div align="center">
